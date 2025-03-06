@@ -11,10 +11,10 @@
 
 ## Clonar para o repositório
 
-- git clone git@github.com:Kdoze/.git
+- git clone <path> | exemplo: git clone >git@github.com:Kdoze/.git
 
 ## Autor
 
-NOME: Guilherme Oliveira
-TURMA: A
-- git clone <path> | exemplo: git clone >git@github.com:Kdoze/.git
+- NOME: Guilherme Oliveira
+- TURMA: A
+
