@@ -12,3 +12,7 @@
 ## Clonar para o repositório
 
 - git clone git@github.com:Kdoze/.git
+
+## Autor
+
+NOME: Guilherme Oliveira
