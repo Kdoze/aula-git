@@ -11,4 +11,4 @@
 
 ## Clonar para o repositório
 
-- git clone git@github.com:Kdoze/.git
+- git clone <path> | exemplo: git clone >git@github.com:Kdoze/.git
